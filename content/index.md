@@ -6,4 +6,5 @@ title: Welcome to EduMigSoft
 
 > [!note] Page still under construction
 
-> [!error] Error
+
+[[about|About]]

@@ -1,6 +1,17 @@
 # EduMigSoft
 
-Initial page
+Blog para difundir ideias e projetos.
+
+
+---
+
+Construido com:
+
+Github Pages: https://pages.github.com/
+
+Obsidian: https://obsidian.md/
+
+Quartz: https://quartz.jzhao.xyz/
 
 ## Sponsors
 
